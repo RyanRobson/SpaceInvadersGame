@@ -1,0 +1,6 @@
+Bug List:
+-When the AI agent changed to proetect mode and moves up the screen, the AI will get caught on the the human players sprite untill the player moves downwards, after which the AI agent will position it's self correctly. 
+
+- When a new level is loaded, the position of the AI agent is not correctly adjusted. 
+
+-Ocassionaly, when the threat changes, there will be a moment where the AI agent 'hangs' and will remain still for a small period of time.

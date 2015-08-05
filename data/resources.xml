@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- basedir -->
+	<basedir path="data/" />
+	<!-- sounds -->
+	<!-- songs -->
+	<!-- images -->
+	<image key="player" file="Sprites/player.png" />
+	<image key="playerRight" 	file="Sprites/playerRight.png"/>
+	<image key="playerLeft" file="Sprites/playerLeft.png"/>
+	<image key="bullet" file="Sprites/bullet.png"/>
+	<image key="blueBullet" file="Sprites/blueBullet.png"/>
+	<image key="explosion" file="Explosions/explosion.png"/>
+	<image key="explosion2" file="Explosions/explosion2.png"/>
+	<image key="explosion3" file="Explosions/explosion3.png"/>
+	<image key="explosion4" file="Explosions/explosion4.png"/>
+	<image key="explosion5" file="Explosions/explosion5.png"/>
+<image key="aoeExplosion" file="Explosions/aoeExplosion.png"/>
+<image key="aoeExplosion2" file="Explosions/aoeExplosion2.png"/>
+<image key="aoeExplosion3" file="Explosions/aoeExplosion3.png"/>
+<image key="aoeExplosion4" file="Explosions/aoeExplosion4.png"/>
+<image key="aoeExplosion5" file="Explosions/aoeExplosion5.png"/>
+<image key="aoeExplosion6" file="Explosions/aoeExplosion6.png"/>
+<image key="aoeExplosion7" file="Explosions/aoeExplosion7.png"/>
+	<image key="blackExplosion" 		file="Explosions/blackExplosion.png"/>
+	<image key="blackExplosion2" 	file="Explosions/blackExplosion2.png"/>
+	<image key="blackExplosion3" 	file="Explosions/blackExplosion3.png"/>
+	<image key="blackExplosion4" 	file="Explosions/blackExplosion4.png"/>
+	<image key="blackExplosion5" 	file="Explosions/blackExplosion5.png"/>
+	<image key="squidMonster" file="Sprites/squidMonster.png" />
+	<image key="squidMonsterMove" 	file="Sprites/squidMonsterMove.png" />
+	<image key="blackHead" file="Sprites/blackHead.png" />
+<image key="bugBoss" file="Sprites/bugBoss.png" />
+<image key="bugBoss2" file="Sprites/bugBoss2.png" />
+<image key="bugShot" file="Sprites/bugShot.png" />
+	<image key="background" file="Background/background.jpg"/>
+	<image key="mainMenuBg" file="Background/mainMenuBG.png"/>
+	<image key="newGame" file="Text/newGame.png"/>
+	<image key="newGameHover" 	file="Text/newGameHover.png"/>
+	<image key="loadGame" file="Text/loadGame.png"/>
+	<image key="loadGameHover" file="Text/loadGameHover.png"/>
+<image key="upgradeShop" file="Upgrade shop/upgradeShop.png"/>
+<image key="saveGame" file="Upgrade shop/saveGame.png"/>
+<image key="gameSaved" file="Upgrade shop/gameSaved.png"/>
+<image key="buy" file="Upgrade shop/buy.png"/>
+<image key="bought" file="Upgrade shop/bought.png"/>
+<image key="back" file="Text/back.png"/>
+<image key="backHover" file="Text/backHover.png"/>
+<image key="retryHover" file="Text/retryHover.png"/>
+<image key="retry" file="Text/retry.png"/>
+<image key="mainMenu" file="Text/mainMenu.png"/>
+<image key="mainMenuHover" file="Text/mainMenuHover.png"/>
+<image key="gameOverMenu" file="Sprites/gameOverMenu.png"/>
+<image key="gameEndMenu" file="Sprites/gameEndMenu.png"/>
+<image key="congrats" file="Text/congrats.png"/>
+<image key="ui" file="Interface/gameGUI.png"/>
+<image key="healthBarFull" file="Interface/healthBarFull.png"/>
+<image key="healthBar25" file="Interface/healthBar25.png"/>
+<image key="healthBar50" file="Interface/healthBar50.png"/>
+<image key="healthBar75" file="Interface/healthBar75.png"/>
+<image key="healthBarEmpty" file="Interface/healthBarEmpty.png"/>
+	<!-- sheets -->
+	<!-- fonts -->
+</resources>
